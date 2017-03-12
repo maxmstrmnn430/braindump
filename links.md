@@ -10,9 +10,11 @@
   * [buildout](https://pypi.python.org/pypi/zc.buildout)
     * [mr.developer](https://pypi.python.org/pypi/mr.developer)
 
-* [Unittest](https://docs.python.org/3/library/unittest.html)
+* [unittest](https://docs.python.org/2/library/unittest.html) ([unittest.mock](https://pypi.python.org/pypi/mock) backported to 2.7)
   * [doctest](https://docs.python.org/2/library/doctest.html)
   * [Nose](http://nose.readthedocs.io/en/latest/)
+  * [plone.testing](https://pypi.python.org/pypi/plone.testing/4.3.0)
+    * [Trevis CI with Plone](https://www.plone-entwicklerhandbuch.de/anhang/referenz/testen/travis-ci)
 
 * [Git](https://git-scm.com/documentation)
   * [Github](https://help.github.com/)
