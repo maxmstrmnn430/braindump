@@ -1,9 +1,10 @@
-### Dokumentation
-
+### Links
 
 * [Packaging](https://packaging.python.org/)
   * [pip](https://pip.pypa.io/en/stable/)
   * [Setuptools](https://setuptools.readthedocs.io/en/latest/)
+    * [Distutils](https://docs.python.org/2/library/distutils.html)
+    * [easy_install](http://setuptools.readthedocs.io/en/latest/easy_install.html)
   * [Virtualenv](https://virtualenv.pypa.io/en/stable/)
   * [mr.bob](http://mrbob.readthedocs.io/en/latest/)
   * [buildout](https://pypi.python.org/pypi/zc.buildout)
