@@ -1,5 +1,8 @@
 ### Links
 
+* [Python]()
+  * [Metaclasses](http://eli.thegreenplace.net/2011/08/14/python-metaclasses-by-example)
+
 * [Packaging](https://packaging.python.org/)
   * [pip](https://pip.pypa.io/en/stable/)
   * [Setuptools](https://setuptools.readthedocs.io/en/latest/)
@@ -25,3 +28,6 @@
 * [Plone](https://docs.plone.org/4/en/), [1](https://www.packtpub.com/web-development/professional-plone-4-development)
   * [Zope](http://docs.zope.org/)
     * [Zope Component Architecture](http://muthukadan.net/docs/zca.html)
+    * [Transaction](https://github.com/zopefoundation/transaction)
+    * [Persistent](https://github.com/zopefoundation/persistent)
+    * [ZODB](https://github.com/zopefoundation/ZODB)
