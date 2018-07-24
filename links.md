@@ -1,3 +1,11 @@
+### Desktop Tools
+
+* window manager: sway
+* browser: Firefox plus vimium
+* mail client: mutt
+* PDF-viewer: zathura
+
+
 ### Links
 
 * [Python](https://docs.python.org/3/reference/index.html)
